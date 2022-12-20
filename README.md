@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @junhyuk1229
+- 🌱 I’m currently learning python
+- 📫 How to reach me junhyuk1229@gmail.com
+- Blog: [Blog](https://junhyuk1229.tistory.com/)<br/>
